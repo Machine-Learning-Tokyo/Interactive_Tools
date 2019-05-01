@@ -1,9 +1,21 @@
-# MLT Study Group resources: Deep Learning
+# MLT Study Group: Interactive Tools and other great Resources
 
-## Interactive Deep Learning Playgroun
+# Interactive Tools
+
+## Interactive Deep Learning Playground
 New to Deep Learning? Tinker with a Neural Network in your browser.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/dl_playground.png" width="1000"></p>](https://playground.tensorflow.org)
+
+# Math
+
+## Seeing Theory: Probability and Stats
+
+A visual introduction to probability and statistics.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/seeing_theory.png" width="1000"></p>](https://seeing-theory.brown.edu)
+
+# Code
 
 ## Write a Neural Network from scratch in NumPy
 

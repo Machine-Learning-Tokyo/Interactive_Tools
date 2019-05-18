@@ -7,6 +7,12 @@ New to Deep Learning? Tinker with a Neural Network in your browser.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/dl_playground.png" width="1000"></p>](https://playground.tensorflow.org)
 
+## Initializing neural networks
+
+Initialization can have a significant impact on convergence in training deep neural networks. Simple initialization schemes can accelerate training, but they require care to avoid common pitfalls. In this post, deeplearning.ai folks explain how to initialize neural network parameters effectively.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/weight_init.png" width="1000"></p>](https://www.deeplearning.ai/ai-notes/initialization/)
+
 # Math
 
 ## Seeing Theory: Probability and Stats

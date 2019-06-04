@@ -2,6 +2,12 @@
 
 # Interactive Tools
 
+## A visual introduction to Machine Learning
+Available in many different languages.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/intro_ML.png" width="1000"></p>](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
 ## Interactive Deep Learning Playground
 New to Deep Learning? Tinker with a Neural Network in your browser.
 

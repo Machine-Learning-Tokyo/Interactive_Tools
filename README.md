@@ -2,6 +2,13 @@
 
 # Interactive Tools
 
+## Distill: Exploring Neural Networks with Activation Atlases
+
+Feature inversion to visualize millions of activations from an image classification network leads to an explorable activation atlas of features the network has learned. This can reveal how the network typically represents some concepts.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/activation_atlas.png" width="1000"></p>](https://distill.pub/2019/activation-atlas/)
+
+
 ## A visual introduction to Machine Learning
 Available in many different languages.
 

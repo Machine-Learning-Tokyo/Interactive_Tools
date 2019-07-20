@@ -2,6 +2,17 @@
 
 # Interactive Tools
 
+## Play with GANs in the Browser
+Explore Generative Adversarial Networks directly in the browser with GAN Lab. There are many cool features that support interactive experimentation.
+
+- Interactive hyperparameter adjustment
+- User-defined data distribution
+- Slow-motion mode
+- Manual step-by-step execution
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gans.png" width="1000"></p>](https://poloclub.github.io/ganlab/)
+
+
 ## Distill: Exploring Neural Networks with Activation Atlases
 
 Feature inversion to visualize millions of activations from an image classification network leads to an explorable activation atlas of features the network has learned. This can reveal how the network typically represents some concepts.

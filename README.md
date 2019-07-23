@@ -42,7 +42,7 @@ Initialization can have a significant impact on convergence in training deep neu
 
 It's increaingly important to understand how data is being interpreted by machine learning models. To translate the things we understand naturally (e.g. words, sounds, or videos) to a form that the algorithms can process, we often use embeddings, a mathematical vector representation that captures different facets (dimensions) of the data. In this interactive, you can explore multiple different algorithms (PCA, t-SNE, UMAP) for exploring these embeddings in your browser.
 
-[<p align="center"><img src="https://2.bp.blogspot.com/-yL_425HS2ck/WEDZLk5cq0I/AAAAAAAABcI/kwy4F4Cmfi4jyG_InIiYu6F7y2-BKTXWQCLcB/s1600/embedding-mnist.gif" width="1000"></p>](https://projector.tensorflow.org/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/embedding-mnist.gif" width="1000"></p>](https://projector.tensorflow.org/)
 
 
 # Math

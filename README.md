@@ -58,7 +58,7 @@ A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/seeing_theory.png" width="1000"></p>](https://seeing-theory.brown.edu)
 
-# Code
+# Add-ons
 
 ## Write a Neural Network from scratch in NumPy
 

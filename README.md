@@ -1,4 +1,4 @@
-# MLT Study Group: Interactive Tools and other great Resources
+# Interactive Tools for Machine Learning, Deep Learning and Math
 
 # Interactive Tools
 

@@ -1,6 +1,20 @@
-# Interactive Tools for Machine Learning, Deep Learning and Math
+# Interactive Tools for ML, DL and Math
 
-# Interactive Tools
+## Interactive Tools
+
+- Play with GANs in the Browser
+- ConvNet Playground
+- Distill: Exploring Neural Networks with Activation Atlases
+- A visual introduction to Machine Learning
+- Interactive Deep Learning Playground
+- Initializing neural networks
+- Embedding Projector
+
+## Math
+
+- Seeing Theory: Probability and Stats
+
+
 
 ## Play with GANs in the Browser
 Explore Generative Adversarial Networks directly in the browser with GAN Lab. There are many cool features that support interactive experimentation.

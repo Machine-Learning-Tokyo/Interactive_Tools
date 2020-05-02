@@ -2,6 +2,7 @@
 
 ## Interactive Tools
 
+- CNN Explainer
 - Play with GANs in the Browser
 - ConvNet Playground
 - Distill: Exploring Neural Networks with Activation Atlases
@@ -14,7 +15,16 @@
 
 - Seeing Theory: Probability and Stats
 
+## CNN Explainer
 
+An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs). It runs a pre-tained CNN in the browser and lets you explore the layers and operations.
+
+- [Live Demo](https://poloclub.github.io/cnn-explainer/)
+- [Video](https://youtube.com/watch?v=udVN7fPvGe0)
+- [Code](https://github.com/poloclub/cnn-explainer)
+- [Paper](https://arxiv.org/abs/2004.15004)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/cnn_explainer.gif" width="400"></p>](https://poloclub.github.io/cnn-explainer/)
 
 ## Play with GANs in the Browser
 Explore Generative Adversarial Networks directly in the browser with GAN Lab. There are many cool features that support interactive experimentation.

@@ -1,28 +1,22 @@
 # Interactive Tools for ML, DL and Math
 
-## Interactive Tools
+## Content
 
 - [CNN Explainer](#cnn-explainer)
 - [Play with GANs in the Browser](#play-with-gans-in-the-browser)
-- ConvNet Playground
-- Distill: Exploring Neural Networks with Activation Atlases
-- A visual introduction to Machine Learning
-- Interactive Deep Learning Playground
-- Initializing neural networks
-- Embedding Projector
-
-## Math
-
-- Seeing Theory: Probability and Stats
+- [ConvNet Playground](#convnet-playground)
+- [Distill: Exploring Neural Networks with Activation Atlases](#distill-exploring-neural-networks-with-activation-atlases)
+- [A visual introduction to Machine Learning](#a-visual-introduction-to-machine-learning)
+- [Interactive Deep Learning Playground](#interactive-deep-learning-playground)
+- [Initializing neural networks](#initializing-neural-networks)
+- [Embedding Projector](#embedding-projector)
+- [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
 
 ## CNN Explainer
 
 An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs). It runs a pre-tained CNN in the browser and lets you explore the layers and operations.
 
-- [Live Demo](https://poloclub.github.io/cnn-explainer/)
-- [Video](https://youtube.com/watch?v=udVN7fPvGe0)
-- [Code](https://github.com/poloclub/cnn-explainer)
-- [Paper](https://arxiv.org/abs/2004.15004)
+- [Live Demo](https://poloclub.github.io/cnn-explainer/) | [Video](https://youtube.com/watch?v=udVN7fPvGe0) | [Code](https://github.com/poloclub/cnn-explainer) | [Paper](https://arxiv.org/abs/2004.15004)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/cnn_explainer.gif" width="400"></p>](https://poloclub.github.io/cnn-explainer/)
 

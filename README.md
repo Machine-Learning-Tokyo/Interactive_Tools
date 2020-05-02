@@ -2,8 +2,8 @@
 
 ## Interactive Tools
 
-- CNN Explainer
-- Play with GANs in the Browser
+- [CNN Explainer](#cnn-explainer)
+- [Play with GANs in the Browser](#play-with-gans-in-the-browser)
 - ConvNet Playground
 - Distill: Exploring Neural Networks with Activation Atlases
 - A visual introduction to Machine Learning

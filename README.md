@@ -10,6 +10,7 @@
 - [Interactive Deep Learning Playground](#interactive-deep-learning-playground)
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
+- [OpenAI Microscope](#openai-microscope)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
 
 ## CNN Explainer
@@ -67,6 +68,11 @@ It's increaingly important to understand how data is being interpreted by machin
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/embedding-mnist.gif" width="1000"></p>](https://projector.tensorflow.org/)
 
+## OpenAI Microscope
+
+The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of eight important vision models.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
 # Math
 

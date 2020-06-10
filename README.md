@@ -2,6 +2,8 @@
 
 ## Content
 
+### Deep Learning
+
 - [CNN Explainer](#cnn-explainer)
 - [Play with GANs in the Browser](#play-with-gans-in-the-browser)
 - [ConvNet Playground](#convnet-playground)
@@ -11,6 +13,10 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
+
+### Math
+- [Probability Distributions](#probability-distributions)
+- [Bayesian Inference](#bayesian-inference)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
 
 ## CNN Explainer
@@ -75,6 +81,25 @@ The OpenAI Microscope is a collection of visualizations of every significant lay
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
 # Math
+
+## Probability Distributions
+
+by Simon Ward-Jones. A visual 👀 tour of probability distributions.
+
+- Bernoulli Distribution
+- Binomial Distribution
+- Normal Distribution
+- Beta Distribution
+- LogNormal Distribution
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/prob.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+
+## Bayesian Inference
+
+by Simon Ward-Jones. Explaining the basics of bayesian inference with the example of flipping a coin.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bayes.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+
 
 ## Seeing Theory: Probability and Stats
 

@@ -13,6 +13,7 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
+- [Netron](#netron)
 
 ### Math
 - [Sage Interactions](#sage-interactions)
@@ -80,6 +81,12 @@ It's increaingly important to understand how data is being interpreted by machin
 The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of eight important vision models.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
+
+## Netron
+
+Netron is visualizer for neural network, deep learning, and machine learning models.
+
+[<p align="center"><img src="./images/netron.png" width="1000"></p>](https://github.com/lutzroeder/netron)
 
 # Math
 

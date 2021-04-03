@@ -13,7 +13,7 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
-- [Measuring diversity])(#measuring-diversity)
+- [Measuring diversity](#measuring-diversity)
 
 ### Math
 - [Sage Interactions](#sage-interactions)

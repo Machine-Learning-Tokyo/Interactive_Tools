@@ -13,6 +13,7 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
+- [Measuring diversity])(#measuring-diversity)
 
 ### Math
 - [Sage Interactions](#sage-interactions)
@@ -80,6 +81,18 @@ It's increaingly important to understand how data is being interpreted by machin
 The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of eight important vision models.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
+
+## Measuring diversity
+
+PAIR Explorables around measuring diversity.
+
+"Search, ranking and recommendation systems can help find useful documents in large datasets. However, these datasets reflect the biases of the society in which they were created and the systems risk re-entrenching those biases. For example, if someone who is not a white man searches for “CEO pictures” and sees a page of white men, they may feel that only white men can be CEOs, further perpetuating lack of representation at companies’ executive levels."
+
+- Mitchell et. al. (2020) [Diversity and Inclusion Metrics in Subset Selection](https://arxiv.org/abs/2002.03256)
+- [Interactive explorables](https://pair.withgoogle.com/explorables/measuring-diversity/)
+
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/mdiv.png" width="1000"></p>](https://pair.withgoogle.com/explorables/measuring-diversity/)
 
 # Math
 

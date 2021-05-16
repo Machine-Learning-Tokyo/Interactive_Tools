@@ -15,6 +15,10 @@
 - [OpenAI Microscope](#openai-microscope)
 - [Measuring diversity](#measuring-diversity)
 
+### Interpretability
+
+- [The Language Interpretability Tool](#the-language-interpretability-tool)
+
 ### Math
 - [Sage Interactions](#sage-interactions)
 - [Probability Distributions](#probability-distributions)
@@ -93,6 +97,21 @@ PAIR Explorables around measuring diversity.
 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/mdiv.png" width="1000"></p>](https://pair.withgoogle.com/explorables/measuring-diversity/)
+
+# Interpretability
+
+## The Language Interpretability Tool
+
+The Language Interpretability Tool (LIT) is an open-source platform for visualization and understanding of NLP models.
+
+You can use LIT to ask and answer questions like:
+
+- What kind of examples does my model perform poorly on?
+- Why did my model make this prediction? Can it attribute it to adversarial behavior, or undesirable priors from the training set?
+- Does my model behave consistently if I change things like textual style, verb tense, or pronoun gender?
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Interactive_Tools/blob/master/images/lit.gif" width="1000"></p>](https://pair-code.github.io/lit/)
+
 
 # Math
 

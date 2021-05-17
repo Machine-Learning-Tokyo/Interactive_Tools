@@ -1,8 +1,8 @@
-# Interactive Tools for ML, DL and Math
+# Interactive Tools for machine learning, deep learning, and math
 
 ## Content
 
-### Deep Learning
+## Deep Learning
 
 - [CNN Explainer](#cnn-explainer)
 - [Play with GANs in the Browser](#play-with-gans-in-the-browser)
@@ -15,16 +15,18 @@
 - [OpenAI Microscope](#openai-microscope)
 - [Measuring diversity](#measuring-diversity)
 
-### Interpretability
+## Interpretability
 
 - [The Language Interpretability Tool](#the-language-interpretability-tool)
 - [What if](#what-if)
 
-### Math
+## Math
 - [Sage Interactions](#sage-interactions)
 - [Probability Distributions](#probability-distributions)
 - [Bayesian Inference](#bayesian-inference)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
+
+---
 
 ## CNN Explainer
 

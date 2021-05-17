@@ -18,6 +18,7 @@
 ### Interpretability
 
 - [The Language Interpretability Tool](#the-language-interpretability-tool)
+- [What if](#what-if)
 
 ### Math
 - [Sage Interactions](#sage-interactions)
@@ -95,6 +96,8 @@ PAIR Explorables around measuring diversity.
 - Mitchell et. al. (2020) [Diversity and Inclusion Metrics in Subset Selection](https://arxiv.org/abs/2002.03256)
 - [Interactive explorables](https://pair.withgoogle.com/explorables/measuring-diversity/)
 
+- [Source: PAIR](https://pair-code.github.io/lit/)
+
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/mdiv.png" width="1000"></p>](https://pair.withgoogle.com/explorables/measuring-diversity/)
 
@@ -111,6 +114,15 @@ You can use LIT to ask and answer questions like:
 - Does my model behave consistently if I change things like textual style, verb tense, or pronoun gender?
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Interactive_Tools/blob/master/images/lit.gif" width="1000"></p>](https://pair-code.github.io/lit/)
+
+## What if
+
+The What-If Tool lets you visually probe the behavior of trained machine learning models, with minimal coding.
+
+- [Source: PAIR](https://pair-code.github.io/what-if-tool/)
+
+![what-if](https://user-images.githubusercontent.com/27798583/118443855-b3cc9b80-b6ec-11eb-9c28-849d7e755cd4.gif)
+
 
 
 # Math

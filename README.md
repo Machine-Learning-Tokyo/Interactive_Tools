@@ -25,6 +25,7 @@
 - [Probability Distributions](#probability-distributions)
 - [Bayesian Inference](#bayesian-inference)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
+- [Interactive Gaussian Process Visualization](#interactive-gaussian-process-visualization)
 
 ---
 
@@ -162,3 +163,12 @@ by Simon Ward-Jones. Explaining the basics of bayesian inference with the exampl
 A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/seeing_theory.png" width="1000"></p>](https://seeing-theory.brown.edu)
+
+## Interactive Gaussian Process Visualization
+
+"A Gaussian process can be thought of as an extension of the multivariate normal distribution to an infinite number of random variables covering each point on the input domain. The covariance between function values at any two points is given by the evaluation of the kernel of the Gaussian process. For an in-depth explanation, read this excellent [distill.pub article](https://distill.pub/2019/visual-exploration-gaussian-processes/) and then come back to this interactive visualisation!"
+
+- Source: [Infinite curiosity](http://www.infinitecuriosity.org/vizgp/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gaussian_vis.png" width="1000"></p>](http://www.infinitecuriosity.org/vizgp/)
+

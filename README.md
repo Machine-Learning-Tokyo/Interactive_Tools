@@ -4,6 +4,7 @@
 
 ## Deep Learning
 
+- [BertViz](#bertviz)
 - [CNN Explainer](#cnn-explainer)
 - [Play with GANs in the Browser](#play-with-gans-in-the-browser)
 - [ConvNet Playground](#convnet-playground)
@@ -13,12 +14,12 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
-- [Measuring diversity](#measuring-diversity)
 
 ## Interpretability
 
 - [The Language Interpretability Tool](#the-language-interpretability-tool)
 - [What if](#what-if)
+- [Measuring diversity](#measuring-diversity)
 
 ## Math
 - [Sage Interactions](#sage-interactions)
@@ -28,6 +29,18 @@
 - [Interactive Gaussian Process Visualization](#interactive-gaussian-process-visualization)
 
 ---
+
+# Deep Learning
+
+## BertViz
+
+"BertViz is a tool for visualizing attention in the Transformer model, supporting most models from the transformers library (BERT, GPT-2, XLNet, RoBERTa, XLM, CTRL, MarianMT, etc.). It extends the [Tensor2Tensor visualization tool](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/visualization) by Llion Jones and the [transformers library](https://github.com/huggingface/transformers) from [HuggingFace](https://github.com/huggingface)."
+
+- Source: [BertViz](https://github.com/jessevig/bertviz)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bert_vis.gif" width="600"></p>](https://github.com/jessevig/bertviz)
+
+
 
 ## CNN Explainer
 
@@ -90,21 +103,8 @@ The OpenAI Microscope is a collection of visualizations of every significant lay
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
-## Measuring diversity
 
-PAIR Explorables around measuring diversity.
-
-"Search, ranking and recommendation systems can help find useful documents in large datasets. However, these datasets reflect the biases of the society in which they were created and the systems risk re-entrenching those biases. For example, if someone who is not a white man searches for “CEO pictures” and sees a page of white men, they may feel that only white men can be CEOs, further perpetuating lack of representation at companies’ executive levels."
-
-- Mitchell et. al. (2020) [Diversity and Inclusion Metrics in Subset Selection](https://arxiv.org/abs/2002.03256)
-- [Interactive explorables](https://pair.withgoogle.com/explorables/measuring-diversity/)
-
-- [Source: PAIR](https://pair-code.github.io/lit/)
-
-
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/mdiv.png" width="1000"></p>](https://pair.withgoogle.com/explorables/measuring-diversity/)
-
-# Interpretability
+# Interpretability, Fairness
 
 ## The Language Interpretability Tool
 
@@ -126,7 +126,19 @@ The What-If Tool lets you visually probe the behavior of trained machine learnin
 
 ![what-if](https://user-images.githubusercontent.com/27798583/118443855-b3cc9b80-b6ec-11eb-9c28-849d7e755cd4.gif)
 
+## Measuring diversity
 
+PAIR Explorables around measuring diversity.
+
+"Search, ranking and recommendation systems can help find useful documents in large datasets. However, these datasets reflect the biases of the society in which they were created and the systems risk re-entrenching those biases. For example, if someone who is not a white man searches for “CEO pictures” and sees a page of white men, they may feel that only white men can be CEOs, further perpetuating lack of representation at companies’ executive levels."
+
+- Mitchell et. al. (2020) [Diversity and Inclusion Metrics in Subset Selection](https://arxiv.org/abs/2002.03256)
+- [Interactive explorables](https://pair.withgoogle.com/explorables/measuring-diversity/)
+
+- [Source: PAIR](https://pair-code.github.io/lit/)
+
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/mdiv.png" width="1000"></p>](https://pair.withgoogle.com/explorables/measuring-diversity/)
 
 # Math
 

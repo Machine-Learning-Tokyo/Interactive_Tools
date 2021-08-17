@@ -14,6 +14,7 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
+- [Teachable Machine by Google](#teachable-machine-by-google)
 
 ## Interpretability
 
@@ -104,6 +105,13 @@ The OpenAI Microscope is a collection of visualizations of every significant lay
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
+## Teachable Machine by Google
+
+Google's Teachable Machine is a web-based tool to train simple models without any prior programming knowledge required.
+
+[<p align="center"><img src="images/teachable_machine.gif" width="1000"></p>](https://teachablemachine.withgoogle.com/)
+
+Video Source: [Teachable Machine 2.0: Making AI easier for everyone](https://www.youtube.com/watch?v=T2qQGqZxkD0&t=128s)
 
 # Interpretability, Fairness
 

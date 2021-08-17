@@ -27,6 +27,7 @@
 - [Bayesian Inference](#bayesian-inference)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
 - [Interactive Gaussian Process Visualization](#interactive-gaussian-process-visualization)
+- [Interactive Tutorial on Numerical Optimization](#interactive-tutorial-on-numerical-optimization)
 
 ---
 
@@ -184,3 +185,8 @@ A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gaussian_vis.png" width="1000"></p>](http://www.infinitecuriosity.org/vizgp/)
 
+## Interactive Tutorial on Numerical Optimization
+
+by Ben Frederickson. Visualizing methods for numerical optimization such as Gradient Descent and others.
+
+[<p align="center"><img src="images/gradient_descent.gif" width="1000"></p>](https://www.benfrederickson.com/numerical-optimization/)

@@ -62,7 +62,7 @@ Explore Generative Adversarial Networks directly in the browser with GAN Lab. Th
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gans.png" width="1000"></p>](https://poloclub.github.io/ganlab/)
 
-# ConvNet Playground
+## ConvNet Playground
 ConvNet Playground is an interactive visualization tool for exploring Convolutional Neural Networks applied to the task of semantic image search. 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/convnetplaygroud.png" width="1000"></p>](https://convnetplayground.fastforwardlabs.com/#/)

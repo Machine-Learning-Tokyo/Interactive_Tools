@@ -4,6 +4,7 @@
 
 ## Deep Learning
 
+- [exBERT](#exbert)
 - [BertViz](#bertviz)
 - [CNN Explainer](#cnn-explainer)
 - [Play with GANs in the Browser](#play-with-gans-in-the-browser)
@@ -31,6 +32,15 @@
 ---
 
 # Deep Learning
+
+## exBERT
+
+"exBERT is a tool to help humans conduct flexible, interactive investigations and formulate hypotheses for the model-internal reasoning process, supporting analysis for a wide variety of Hugging Face Transformer models. exBERT provides insights into the meaning of the contextual representations and attention by matching a human-specified input to similar contexts in large annotated datasets."
+
+- Source: [exBERT](https://huggingface.co/exbert/)
+
+<img width="1438" alt="exbert" src="https://user-images.githubusercontent.com/27798583/157429282-352f48f2-0d7b-43ef-8aff-79feaa8ae47a.png">
+
 
 ## BertViz
 

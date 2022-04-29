@@ -15,6 +15,7 @@
 - [Initializing neural networks](#initializing-neural-networks)
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
+- [Teachable Machine by Google](#teachable-machine-by-google)
 
 ## Interpretability
 
@@ -28,6 +29,7 @@
 - [Bayesian Inference](#bayesian-inference)
 - [Seeing Theory: Probability and Stats](#seeing-theory-probability-and-stats)
 - [Interactive Gaussian Process Visualization](#interactive-gaussian-process-visualization)
+- [Interactive Tutorial on Numerical Optimization](#interactive-tutorial-on-numerical-optimization)
 
 ---
 
@@ -70,7 +72,7 @@ Explore Generative Adversarial Networks directly in the browser with GAN Lab. Th
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gans.png" width="1000"></p>](https://poloclub.github.io/ganlab/)
 
-# ConvNet Playground
+## ConvNet Playground
 ConvNet Playground is an interactive visualization tool for exploring Convolutional Neural Networks applied to the task of semantic image search. 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/convnetplaygroud.png" width="1000"></p>](https://convnetplayground.fastforwardlabs.com/#/)
@@ -113,6 +115,13 @@ The OpenAI Microscope is a collection of visualizations of every significant lay
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
+## Teachable Machine by Google
+
+Google's Teachable Machine is a web-based tool to train simple models without any prior programming knowledge required.
+
+[<p align="center"><img src="images/teachable_machine.gif" width="1000"></p>](https://teachablemachine.withgoogle.com/)
+
+Video Source: [Teachable Machine 2.0: Making AI easier for everyone](https://www.youtube.com/watch?v=T2qQGqZxkD0&t=128s)
 
 # Interpretability, Fairness
 
@@ -194,3 +203,8 @@ A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gaussian_vis.png" width="1000"></p>](http://www.infinitecuriosity.org/vizgp/)
 
+## Interactive Tutorial on Numerical Optimization
+
+by Ben Frederickson. Visualizing methods for numerical optimization such as Gradient Descent and others.
+
+[<p align="center"><img src="images/gradient_descent.gif" width="1000"></p>](https://www.benfrederickson.com/numerical-optimization/)

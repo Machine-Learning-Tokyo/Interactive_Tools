@@ -45,7 +45,7 @@ Transformer Explainer is an interactive visualization tool designed to help anyo
 - [Source: GitHub](https://github.com/poloclub/transformer-explainer)
 - [Source: Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
-<img width="1426" alt="Transformer Explainer" src="https://github.com/user-attachments/assets/9221d106-da89-4ef4-87fe-e142e3d9ebb6">
+[<img width="1426" alt="Transformer Explainer" src="https://github.com/user-attachments/assets/9221d106-da89-4ef4-87fe-e142e3d9ebb6">](https://poloclub.github.io/transformer-explainer/)
 
 ## exBERT
 
@@ -82,10 +82,14 @@ Explore Generative Adversarial Networks directly in the browser with GAN Lab. Th
 - Slow-motion mode
 - Manual step-by-step execution
 
+- [Source: GAN Lab](https://poloclub.github.io/ganlab/)
+
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/gans.png" width="1000"></p>](https://poloclub.github.io/ganlab/)
 
 # ConvNet Playground
 ConvNet Playground is an interactive visualization tool for exploring Convolutional Neural Networks applied to the task of semantic image search. 
+
+- [Source: ConvNet Playground](https://convnetplayground.fastforwardlabs.com)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/convnetplaygroud.png" width="1000"></p>](https://convnetplayground.fastforwardlabs.com/#/)
 
@@ -93,6 +97,8 @@ ConvNet Playground is an interactive visualization tool for exploring Convolutio
 ## Distill: Exploring Neural Networks with Activation Atlases
 
 Feature inversion to visualize millions of activations from an image classification network leads to an explorable activation atlas of features the network has learned. This can reveal how the network typically represents some concepts.
+
+- [Source: Distill](https://distill.pub/2019/activation-atlas/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/activation_atlas.png" width="1000"></p>](https://distill.pub/2019/activation-atlas/)
 

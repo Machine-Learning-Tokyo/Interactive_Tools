@@ -64,8 +64,6 @@ Transformer Explainer is an interactive visualization tool designed to help anyo
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bert_vis.gif" width="600"></p>](https://github.com/jessevig/bertviz)
 
-
-
 ## CNN Explainer
 
 An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs). It runs a pre-tained CNN in the browser and lets you explore the layers and operations.
@@ -141,7 +139,7 @@ Atlas allows you to explore real, up-to-date data from sources like social media
 
 - [Source: Nomic](https://atlas.nomic.ai/discover)
 
-<img width="1436" alt="Atlas" src="https://github.com/user-attachments/assets/9409355e-7930-4fb1-9fe1-236be2549db6">
+[<img width="1436" alt="Atlas" src="https://github.com/user-attachments/assets/9409355e-7930-4fb1-9fe1-236be2549db6">](https://atlas.nomic.ai/discover)
 
 
 # Interpretability, Fairness

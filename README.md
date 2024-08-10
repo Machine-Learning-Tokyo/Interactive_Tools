@@ -4,6 +4,7 @@
 
 ## Deep Learning
 
+- [Transformer Explainer](#transformer-explainer)
 - [exBERT](#exbert)
 - [BertViz](#bertviz)
 - [CNN Explainer](#cnn-explainer)
@@ -16,6 +17,10 @@
 - [Embedding Projector](#embedding-projector)
 - [OpenAI Microscope](#openai-microscope)
 
+## Data
+
+- [Atlas Data Exploration](#atlas-data-exploration)
+  
 ## Interpretability
 
 - [The Language Interpretability Tool](#the-language-interpretability-tool)
@@ -32,6 +37,15 @@
 ---
 
 # Deep Learning
+
+## Transformer Explainer
+
+Transformer Explainer is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work. It runs a live GPT-2 model right in your browser, allowing you to experiment with your own text and observe in real time how internal components and operations of the Transformer work together to predict the next tokens.
+
+- [Source: GitHub](https://github.com/poloclub/transformer-explainer)
+- [Source: Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+
+<img width="1426" alt="Transformer Explainer" src="https://github.com/user-attachments/assets/9221d106-da89-4ef4-87fe-e142e3d9ebb6">
 
 ## exBERT
 
@@ -112,6 +126,16 @@ It's increaingly important to understand how data is being interpreted by machin
 The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of eight important vision models.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
+
+# Data
+
+## Atlas Data Exploration
+
+Atlas allows you to explore real, up-to-date data from sources like social media, news, and academic journals curated by the Nomic team.
+
+- [Source: Nomic](https://atlas.nomic.ai/discover)
+
+<img width="1436" alt="Atlas" src="https://github.com/user-attachments/assets/9409355e-7930-4fb1-9fe1-236be2549db6">
 
 
 # Interpretability, Fairness

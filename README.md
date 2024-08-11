@@ -102,19 +102,24 @@ Feature inversion to visualize millions of activations from an image classificat
 
 
 ## A visual introduction to Machine Learning
-Available in many different languages.
+In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.
+
+- [Source: r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/intro_ML.png" width="1000"></p>](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
-
 ## Interactive Deep Learning Playground
 New to Deep Learning? Tinker with a Neural Network in your browser.
+
+- [Source: TF Playground](https://playground.tensorflow.org/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/dl_playground.png" width="1000"></p>](https://playground.tensorflow.org)
 
 ## Initializing neural networks
 
 Initialization can have a significant impact on convergence in training deep neural networks. Simple initialization schemes can accelerate training, but they require care to avoid common pitfalls. In this post, deeplearning.ai folks explain how to initialize neural network parameters effectively.
+
+- [Source: deeplearning.ai](https://www.deeplearning.ai/ai-notes/initialization/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/weight_init.png" width="1000"></p>](https://www.deeplearning.ai/ai-notes/initialization/)
 
@@ -128,6 +133,8 @@ It's increaingly important to understand how data is being interpreted by machin
 ## OpenAI Microscope
 
 The OpenAI Microscope is a collection of visualizations of every significant layer and neuron of eight important vision models.
+
+- [Source: OAI](https://microscope.openai.com/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/openai_microscope.png" width="1000"></p>](https://microscope.openai.com/)
 
@@ -153,6 +160,8 @@ You can use LIT to ask and answer questions like:
 - What kind of examples does my model perform poorly on?
 - Why did my model make this prediction? Can it attribute it to adversarial behavior, or undesirable priors from the training set?
 - Does my model behave consistently if I change things like textual style, verb tense, or pronoun gender?
+
+- [Source: LIT](https://pair-code.github.io/lit/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Interactive_Tools/blob/master/images/lit.gif" width="1000"></p>](https://pair-code.github.io/lit/)
 
@@ -186,6 +195,8 @@ This is a collection of pages demonstrating the use of the **interact** command 
 
 Examples include Algebra, Bioinformatics, Calculus, Cryptography, Differential Equations, Drawing Graphics, Dynamical Systems, Fractals, Games and Diversions, Geometry, Graph Theory, Linear Algebra, Loop Quantum Gravity, Number Theory, Statistics/Probability, Topology, Web Applications.
 
+- [Source: Sage Interactions](https://wiki.sagemath.org/interact/)
+
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/sage.png" width="1000"></p>](https://wiki.sagemath.org/interact/)
 
 
@@ -199,18 +210,24 @@ by Simon Ward-Jones. A visual 👀 tour of probability distributions.
 - Beta Distribution
 - LogNormal Distribution
 
+- [Source: SW-J](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/prob.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
 
 ## Bayesian Inference
 
 by Simon Ward-Jones. Explaining the basics of bayesian inference with the example of flipping a coin.
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bayes.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+- [Source: SW-J](https://www.simonwardjones.co.uk/posts/bayesian_inference/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bayes.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/bayesian_inference/)
 
 
 ## Seeing Theory: Probability and Stats
 
 A visual introduction to probability and statistics.
+
+- [Source: Seeing Theory](https://seeing-theory.brown.edu/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/seeing_theory.png" width="1000"></p>](https://seeing-theory.brown.edu)
 
